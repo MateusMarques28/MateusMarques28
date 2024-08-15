@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/mateus_marques81/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
   </a>
-  <a href="mailto:mateusmarques776@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlGVVtgdlbDpZNQcxtHXHHQPMsgJnNZLmJmdTbSGfcjJtGFfjVdndfcFZxgdZdFXxPSsZL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mateus-marques-2b0a57237/" target="_blank">
